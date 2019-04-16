@@ -1,4 +1,4 @@
-FROM sonatype/nexus:3.16.0
+FROM sonatype/nexus3:3.16.0
 
 MAINTAINER Mohammadreza Honarkhah <m.honar@gmail.com>
 
